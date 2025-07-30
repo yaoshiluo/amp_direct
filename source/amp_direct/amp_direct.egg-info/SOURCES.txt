@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+amp_direct/__init__.py
+amp_direct/ui_extension_example.py
+amp_direct.egg-info/PKG-INFO
+amp_direct.egg-info/SOURCES.txt
+amp_direct.egg-info/dependency_links.txt
+amp_direct.egg-info/not-zip-safe
+amp_direct.egg-info/requires.txt
+amp_direct.egg-info/top_level.txt
